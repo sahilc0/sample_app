@@ -24,4 +24,3 @@ test "valid signup information" do
     end
   end
 end
-end
